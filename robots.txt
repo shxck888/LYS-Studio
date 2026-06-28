@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shxck888.github.io/LYS-Studio/sitemap.xml
